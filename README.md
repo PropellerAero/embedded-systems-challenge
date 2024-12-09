@@ -19,7 +19,7 @@ In this repository you will find the following design files for the LampMate mai
 
 - `PropellerLampMate/` - The KiCAD EDA design project
 - `PropellerLampMate.pdf` - The schematic drawing
-- `PropellerLampMate_gerber` - The PCB design in Gerber format
+- `PropellerLampMate_gerber/` - The PCB design in Gerber format
 - `PropellerLampMate.png`- A 3D rendering of the layout
 
 ### Part A
