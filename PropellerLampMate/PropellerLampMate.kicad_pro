@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../PropellerLampMate_gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
